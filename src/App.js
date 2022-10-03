@@ -10,6 +10,7 @@ import {
 function App() {
   return (
     <div className="App">
+      <h1>Tao Dep Trai VCL</h1>
       <Router>
       <Navbar />
       <Routes>
